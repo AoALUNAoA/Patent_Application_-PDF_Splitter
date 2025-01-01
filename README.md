@@ -12,7 +12,7 @@ pip install PyPDF2
 ```
 ## 3.Usage
 ```shell
-python Patent_Application_ PDF- Splitter.py
+python Patent_Application_ PDF_ Splitter.py
 ```
 FYI, Please pay close attention to the formatting of the sample application file.
 The spacing between keywords like "Specification"(说明书) and "Claims"(权利要求书) in the header is crucial for keyword recognition.
