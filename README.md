@@ -15,7 +15,7 @@ pip install PyPDF2
 ## 3.Usage
 In this Python script, **define the file path of your patent application PDF and the destination directories for the five segmented output files**.
 ```shell
-python Patent_Application_PDF_ Splitter.py
+python Patent_Application_PDF_Splitter.py
 ```
 FYI, Please pay close attention to the formatting of the sample application file.
 The spacing between keywords like "Specification"(说明书) and "Claims"(权利要求书) in the header is crucial for keyword recognition.
