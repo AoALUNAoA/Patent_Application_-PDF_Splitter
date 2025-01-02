@@ -36,4 +36,4 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest
+        python https://github.com/AoALUNAoA/Patent_Application_-PDF_Splitter/blob/main/Patent_Application_%20PDF_%20Splitter.py
