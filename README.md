@@ -11,6 +11,7 @@ https://www.python.org/downloads/
 pip install PyPDF2
 ```
 ## 3.Usage
+In this Python script, **define the file path of your patent application PDF and the destination directories for the five segmented output files**.
 ```shell
 python Patent_Application_ PDF_ Splitter.py
 ```
