@@ -41,8 +41,8 @@ def split_pdf(input_path, output_path, keywords):
                 print(f"关键词'{keyword}'的起始页码不在文档范围内。")
 
 # 指定文档输入路径和输出路径
-input_path = 'sample application file.pdf'
-output_path = ''
+input_path = 'test/sample application file.pdf'
+output_path = 'test/'
 
 # 指定关键词
 keywords = ['说  明  书  摘  要', '摘   要   附   图', '权  利  要  求  书', '说     明     书', '说  明  书  附  图']
